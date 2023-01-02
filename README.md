@@ -33,7 +33,7 @@
 6. 此项目软硬件都比较复杂 适合有一定DIY基础的人复刻
 
 #### 其他平台
-1. 立创开源平台：https://oshwhub.com/FJ956391150/esp32-shuo-kong-dian-yuan
+1. 立创开源平台：https://oshwhub.com/fj956391150/zhi-neng-dian-xi-bi
 2. 图片演示
 ![输入图片说明](img/A1.jpg)
 ![输入图片说明](img/A2.jpg)
